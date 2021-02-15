@@ -16,7 +16,7 @@
         android:layout_marginTop="5dp"
         android:ems="10"
         android:gravity="top"
-        android:hint="What's going on?"
+        android:hint="What's happening?"
         android:inputType="textImeMultiLine"
         android:minLines="5" />
 
